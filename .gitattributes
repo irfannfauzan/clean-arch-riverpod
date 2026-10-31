@@ -1,1 +1,3 @@
 Makefile linguist-detectable=false
+*.dart linguist-detectable=true
+*.dart linguist-generated=false
