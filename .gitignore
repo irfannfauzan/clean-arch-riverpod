@@ -9,3 +9,5 @@ build/
 
 # Secrets
 Secrets.swift
+.dart_tool/
+.idea/

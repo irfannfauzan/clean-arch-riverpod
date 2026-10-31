@@ -1,1 +1,0 @@
- /Users/vokal-ican/Desktop/clean_arch_riverpod/.dart_tool/flutter_build/9a824430c75a236dd81f22c5f8d98a22/native_assets.json: 
